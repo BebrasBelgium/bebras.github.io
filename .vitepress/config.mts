@@ -12,6 +12,7 @@ export default defineConfig({
       themeConfig: {
         nav: [
           { text: 'Home', link: '/' },
+          { text: 'Participate', link: '/challenge/' },
           { text: 'FAQ', link: '/faq/' },
           { text: 'About us', link: '/about/' },
         ],
@@ -28,6 +29,18 @@ export default defineConfig({
               ],
             },
           ],
+          '/challenge/': [
+            {
+              text: 'Challenge',
+              link: '/challenge/',
+              items: [
+                {
+                  text: 'Register',
+                  link: '/challenge/register/',
+                },
+              ]
+            },
+          ],
         },
       },
     },
@@ -37,6 +50,7 @@ export default defineConfig({
       themeConfig: {
         nav: [
           { text: 'Accueil', link: '/fr/' },
+          { text: 'Participer', link: '/fr/challenge/' },
           { text: 'FAQ', link: '/fr/faq/' },
           { text: 'À propos', link: '/fr/about/' },
         ],
@@ -54,6 +68,18 @@ export default defineConfig({
               ],
             },
           ],
+          '/fr/challenge/': [
+            {
+              text: 'Challenge',
+              link: '/fr/challenge/',
+              items: [
+                {
+                  text: 'S\'inscrire',
+                  link: '/fr/challenge/register/',
+                },
+              ]
+            },
+          ],
         },
       },
     },
@@ -63,6 +89,7 @@ export default defineConfig({
       themeConfig: {
         nav: [
           { text: 'Home', link: '/nl/' },
+          { text: 'Deelnemen', link: '/nl/challenge/' },
           { text: 'FAQ', link: '/nl/faq/' },
           { text: 'Over ons', link: '/nl/about/' },
         ],
@@ -78,6 +105,18 @@ export default defineConfig({
                   link: '/nl/about/contact/',
                 },
               ],
+            },
+          ],
+          '/nl/challenge/': [
+            {
+              text: 'Challenge',
+              link: '/nl/challenge/',
+              items: [
+                {
+                  text: 'Inschrijven',
+                  link: '/nl/challenge/register/',
+                },
+              ]
             },
           ],
         },
