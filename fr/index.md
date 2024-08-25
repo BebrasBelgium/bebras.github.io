@@ -14,4 +14,4 @@ stats:
   tasks: 31
 ---
 
-Le challenge Bebras a pour objectif de passionner ses participant et participantes à l'informatique et de les familiariser avec la **pensée informatique** et la **résolution de problèmes**. Ce challenge, destiné aux élèves de fin de primaire et du secondaire, se déroule dans les écoles pendant une semaine en automne. Il s'agit d'un **challenge international** déjà organisé dans plus de 80 pays dans le monde.
+Le challenge Bebras a pour but de passionner ses participants à l'informatique et de les initier à la **pensée informatique** et la **résolution de problèmes**. Ce challenge, destiné aux élèves de primaire et du secondaire, se déroule dans les écoles pendant deux semaines en automne. Il s'agit d'un **challenge international** déjà organisé dans plus de 80 pays du monde entier.

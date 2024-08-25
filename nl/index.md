@@ -14,4 +14,4 @@ stats:
   tasks: 31
 ---
 
-The Bebras challenge aims at making its participants enthusiastic about informatics and at introducing them to **computational thinking** and **problem solving**. This challenge, mainly targeted to end of primary and secondary school pupils, takes place in schools during a week in fall. It is an **international challenge** already organised in more than 80 countries from all over the world.
+De Bebras challenge heeft tot doel de deelnemers warm te maken voor informatica en hen kennis te laten maken met **computationeel denken** en **probleemoplossing**. Deze challenge, bedoeld voor leerlingen van het basis- en middelbaar onderwijs, gaat door in de scholen tijdens twee weken in de herfst. Het is een **internationale challenge** die al in meer dan 80 landen van over de hele wereld wordt georganiseerd.
