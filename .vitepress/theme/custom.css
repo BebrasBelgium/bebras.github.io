@@ -3,6 +3,10 @@
   text-align: justify;
 }
 
+.main a {
+  text-decoration: none;
+}
+
 .main ul {
   list-style-type: square;
 }
@@ -18,7 +22,7 @@
 }
 
 /* Side panels */
-div.sidepanels-2 {
+div.sidepanels {
   display: flex;
   flex-wrap: wrap;
   gap: 25px;
@@ -27,20 +31,20 @@ div.sidepanels-2 {
 div.sidepanels-2 > div {
   flex-basis: 250px;
   flex-grow: 1;
-  background-color: #fffaf4;
-  border: 1px solid #ff961e;
-  border-radius: 10px;
-  padding: 15px;
 }
-div.sidepanels-2 > div h2 {
+div.sidepanels-3 > div {
+  flex-basis: 166px;
+  flex-grow: 1;
+}
+div.sidepanels > div h2 {
   border-top: none;
   margin-top: 0;
   padding-top: 0;
   text-align: center;
 }
-div.sidepanels-2 > div h2 > a.header-anchor {
+div.sidepanels > div h2 > a.header-anchor {
   top: 0;
 }
-div.sidepanels-2 > div p {
+div.sidepanels > div p {
   font-size: 15px;
 }

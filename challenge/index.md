@@ -4,6 +4,7 @@ next: false
 ---
 
 <script setup lang="ts">
+import InfoBox from '../.vitepress/components/InfoBox.vue'
 import VPButton from 'vitepress/dist/client/theme-default/components/VPButton.vue'
 </script>
 
@@ -13,8 +14,8 @@ This year, the Bebras challenge takes place from **November 11, 2024 to November
 
 The challenge takes place **online** and participation is **free**. For any questions about the challenge, check the [frequently asked questions](../faq/) or [contact us](../about/contact/), if you do not find an answer there.
 
-<div class="sidepanels-2">
-  <div>
+<div class="sidepanels sidepanels-2">
+  <InfoBox>
 
 ## I am a teacher
 
@@ -26,9 +27,9 @@ _Once done, you will be able to choose a slot during which you can have your pup
     <VPButton text="Register" href="./register/" />
 </div>
 
-  </div>
+  </InfoBox>
 
-  <div>
+  <InfoBox>
 
 ## I am a pupil
 
@@ -36,5 +37,5 @@ As a pupil, you must **ask one of your teachers** to register his school and you
 
 _Once done, you will be able to participate in the challenge at school, at the time chosen by your teacher, online on the dedicated platform._
 
-  </div>
+  </InfoBox>
 </div>

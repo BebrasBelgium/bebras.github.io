@@ -1,24 +1,17 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
-layout: home
-
-hero:
-  name: "Bebras Belgium"
-  text: "Bebras Belgium"
-  tagline: Version française
-  actions:
-    - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
-
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+layout: homepage
+challenge:
+  current_edition: 2024
+  pre: 'La 13ème édition du challenge Bebras Belgium a lieu du :'
+  dates: 11 novembre au 22 novembre 2024
+actions:
+  test_platform: Vous pouvez tester un challenge anonymement sur la plateforme dédiée.
+  test: Tester le challenge
+stats:
+  pre: 'En 2023, nous avions :'
+  schools: 76
+  pupils: 4518
+  tasks: 31
 ---
+
+Le challenge Bebras a pour objectif de passionner ses participant et participantes à l'informatique et de les familiariser avec la **pensée informatique** et la **résolution de problèmes**. Ce challenge, destiné aux élèves de fin de primaire et du secondaire, se déroule dans les écoles pendant une semaine en automne. Il s'agit d'un **challenge international** déjà organisé dans plus de 80 pays dans le monde.

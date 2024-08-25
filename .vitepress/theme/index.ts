@@ -1,11 +1,10 @@
-import { h } from 'vue'
-import Theme from 'vitepress/theme'
-import './style.css'
+import DefaultTheme from 'vitepress/theme'
+import HomePage from './HomePage.vue'
+import './custom.css'
 
 export default {
-  extends: Theme,
-  Layout: () => {
-    return h(Theme.Layout, null, {
-    })
-  },
+  extends: DefaultTheme,
+  enhanceApp({ app }) {
+    app.component('homepage', HomePage)
+  }
 }

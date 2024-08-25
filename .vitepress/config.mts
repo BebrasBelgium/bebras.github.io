@@ -16,6 +16,9 @@ export default defineConfig({
           { text: 'FAQ', link: '/faq/' },
           { text: 'About us', link: '/about/' },
         ],
+        homePage: {
+          statsTitle: 'Statistics',
+        },
         sidebar: {
           '/about/': [
             {
@@ -55,6 +58,12 @@ export default defineConfig({
           { text: 'À propos', link: '/fr/about/' },
         ],
         outlineTitle: 'Sur cette page',
+        homePage: {
+          statsTitle: 'Statistiques',
+          pupils: 'élèves',
+          schools: 'écoles',
+          tasks: 'tâches',
+        },
         sidebar: {
           '/fr/about/': [
             {
@@ -94,6 +103,12 @@ export default defineConfig({
           { text: 'Over ons', link: '/nl/about/' },
         ],
         outlineTitle: 'Op deze pagina',
+        homePage: {
+          statsTitle: 'Statistieken',
+          pupils: 'leerlingen',
+          schools: 'scholen',
+          tasks: 'vragen',
+        },
         sidebar: {
           '/nl/about/': [
             {
