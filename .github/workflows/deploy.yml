@@ -23,7 +23,7 @@ jobs:
       uses: finnp/create-file-action@master
       env:
         FILE_NAME: ".vitepress/dist/CNAME"
-        FILE_DATA: "next.bebras.be"
+        FILE_DATA: "www.bebras.be"
     - name: Deploy to GitHub Pages
       if: success()
       uses: crazy-max/ghaction-github-pages@v3
