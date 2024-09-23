@@ -1,6 +1,7 @@
 ---
 layout: homepage
 challenge:
+  challenge: Bebras Challenge
   current_edition: 2024
   pre: 'La 13ème édition du challenge Bebras Belgium a lieu du :'
   dates: 11 novembre au 22 novembre 2024

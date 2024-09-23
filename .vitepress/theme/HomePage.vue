@@ -28,7 +28,7 @@ const { frontmatter, theme } = useData()
     <div id="sideinfo">
       <InfoBox>
         <img id="logo" src="/images/bebras-belgium-logo.png" />
-        <h2>Bebras Challenge {{ frontmatter.challenge.current_edition }}</h2>
+        <h2>{{frontmatter.challenge.challenge}} {{ frontmatter.challenge.current_edition }}</h2>
         <p>{{ frontmatter.challenge.pre }}</p>
         <div id="dates">{{ frontmatter.challenge.dates }}</div>
       </InfoBox>

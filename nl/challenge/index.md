@@ -10,18 +10,21 @@ import VPButton from 'vitepress/dist/client/theme-default/components/VPButton.vu
 
 # Deelnemen
 
-Dit jaar vindt de Bebras challenge plaats van **11 november 2024 t.e.m. 22 november 2024** (uitgezonderd weekends en feestdagen). Deze **dertiende editie** vindt opnieuw plaats **op scholen**.
-
-De challenge vindt plaats **online** en deelname is **gratis**. Voor vragen over de challenge kun je [veelgestelde vragen](../faq/) raadplegen of [ons contacteren](../about/contact/), als je daar het antwoord niet vindt.
+Dit jaar gaat de Bebras-wedstrijd door van **12 november 2024** t.e.m. **22 november 2024** (uitgezonderd weekends).
+Deze **dertiende editie** vindt **online** plaats **in de klas**. Deelname is **gratis**.
+Voor vragen over de wedstrijd kan 
+je de [veelgestelde vragen](../faq/) raadplegen of [ons contacteren](../about/contact/) als je daar het antwoord niet
+vindt.
 
 <div class="sidepanels sidepanels-2">
   <InfoBox>
 
 ## Ik ben een leerkracht
 
-Als leerkracht kunt u **uw scholen en klassen registreren** zodat uw leerlingen aan de challenge kunnen deelnemen.
+Als leerkracht kan je jezelf (en je school) **registreren** zodat uw leerlingen aan de wedstrijd kunnen deelnemen.
 
-_Als je klaar bent, kun je een lesperiode kiezen waarin je je leerlingen online op het toegewijde platform kunt deelnemen._
+*Daarna kies je zelf één of meerdere lessen waarin je je leerlingen online laat deelnemen op de
+[wedstrijdserver](https://bebras.ugent.be).* (Zie ook [server-documentatie](https://bebras.ugent.be/nl/index.html).)
 
 <div style="text-align: center">
     <VPButton text="Inschrijven" href="./register/" />
@@ -33,9 +36,10 @@ _Als je klaar bent, kun je een lesperiode kiezen waarin je je leerlingen online 
 
 ## Ik ben een leerling
 
-Als leerling moet je **een van je leraren** vragen om hun school en jouw klas te registreren zodat je aan de challenge kun deelnemen.
+Als leerling moet je **een van je leraren** vragen om jouw school en jouw klas te registreren zodat je aan de wedstrijd
+kan deelnemen. 
 
-_Als je klaar bent, kun je deelnemen aan de challenge op school en op het door je leraar gekozen tijdstip, online op het toegewijde platform._
+*Die moet dan zelf een tijdstip voorzien waarop je aan de wedstrijd in de klas kan meedoen.*
 
   </InfoBox>
 </div>

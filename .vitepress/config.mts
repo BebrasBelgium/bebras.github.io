@@ -97,7 +97,7 @@ export default defineConfig({
       lang: 'nl',
       themeConfig: {
         nav: [
-          { text: 'Home', link: '/nl/' },
+          { text: 'Overzicht', link: '/nl/' },
           { text: 'Deelnemen', link: '/nl/challenge/' },
           { text: 'FAQ', link: '/nl/faq/' },
           { text: 'Over ons', link: '/nl/about/' },
@@ -124,7 +124,7 @@ export default defineConfig({
           ],
           '/nl/challenge/': [
             {
-              text: 'Challenge',
+              text: 'Wedstrijd',
               link: '/nl/challenge/',
               items: [
                 {
